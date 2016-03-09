@@ -14,3 +14,4 @@
 You can also ask the difference in genes between c1 and c2.  
 
 what is teh prob. of a CTR gene 
+
