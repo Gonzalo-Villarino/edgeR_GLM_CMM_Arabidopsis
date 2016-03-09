@@ -13,5 +13,6 @@
 
 You can also ask the difference in genes between c1 and c2.  
 
-what is teh prob. of a CTR gene 
+### what is a DEG?
+### What is the probability of a gene in a given condition whose expresiuon value is centered at 10 to be found within the distribution of the same gene in other condition 
 
