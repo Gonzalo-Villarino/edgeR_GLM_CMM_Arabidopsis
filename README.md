@@ -6,9 +6,9 @@
         c1 = (PRTYFP_POS-PRTYFP_NEG), # comparison: yfp pos / yfp neg
         c2 = (PRTALL_SORT-PRTNO_SORT),  # comparison all sort / no sort 
         c3 = (PRTALL_SORT-PRTYFP_POS), # comparison all sort / yfp pos
-        c4 = (PRTALL_SORT-PRTYFP_NEG), # comparison all sort / yfp neg
-        c5 = (PRTNO_SORT-PRTYFP_POS), # comparison no sort / yfp pos
-        c6 = (PRTNO_SORT-PRTYFP_NEG),# comparison no sort /yfp neg
+        ...
+        ...
+        ...
         c7 = (PRTYFP_POS-PRTYFP_NEG)-(PRTALL_SORT-PRTNO_SORT), levels=design # comparison 
         )
         interesting.contrasts <- c("c1", "c2", "c3", "c4", "c5", "c6","c7")
