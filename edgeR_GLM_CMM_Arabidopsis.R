@@ -3,8 +3,6 @@ setwd("~/Documents/NCSU/RNAseq_CMM_BL_Unique/Analysis_ALL/HtSeq_reverse/")
 getwd()
 library("edgeR")
 
-
-
 ####################################################################################################################################
 # EDGER (using htseq-counts previously)
 # edgeR is based on Gener.Linear Model (GML) - assuming that read counts are distributed according to the negative binomial distribution
