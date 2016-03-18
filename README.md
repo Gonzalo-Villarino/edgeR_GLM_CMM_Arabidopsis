@@ -13,7 +13,7 @@
         )
         interesting.contrasts <- c("c1", "c2", "c3", "c4", "c5", "c6","c7")
 
-          C7=this comparison looks to see how DEGs behaive differently betwn YFP+/YFP- vs All/NO-sort
+         c7=this comparison looks to see how DEGs behave differently between YFP+/YFP- vs All/NO-sort
 
 ##### what is a DEG?
 ##### What is the probability of a gene in a given condition whose expresiuon value is centered at 10 to be found within the distribution of the same gene in other condition 
